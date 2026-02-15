@@ -1,2 +1,2 @@
 # Eaglercraft-Clients
-This Contains Many Eaglercraft Version and Clients.
+This Contains Many Eaglercraft Versions and Clients.
